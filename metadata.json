@@ -1,0 +1,6 @@
+{
+  "name": "ZOIR AI",
+  "description": "ChatGPT uslubidagi aqlli AI yordamchi - o'zbek tilida erkin suhbat, dasturlash, matn yaratish va savollarga javob beruvchi yordamchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
